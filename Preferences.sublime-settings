@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Rainglow/rainglow/Jingle (rainglow).tmTheme",
+	"color_scheme": "Packages/Agila Theme/Markdown/Dracula Markdown.tmTheme",
 	"detect_indentation": false,
 	"draw_white_space": true,
 	"ensure_newline_at_eof_on_save": true,
@@ -19,7 +19,7 @@
 		"public/packs",
 		"coverage"
 	],
-	"font_size": 12,
+	"font_size": 14,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"ignored_packages":
