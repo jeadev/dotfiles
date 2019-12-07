@@ -32,7 +32,7 @@
 		80
 	],
 	"tab_size": 2,
-	"theme": "ayu-dark.sublime-theme",
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
