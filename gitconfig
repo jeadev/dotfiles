@@ -48,7 +48,7 @@
   mergeoptions = --no-edit
 [user]
 	email = jeanhdev@gmail.com
-	name = jean hirtz
+	name = Jean Hirtz
 [filter "lfs"]
 	smudge = git-lfs smudge -- %f
 	process = git-lfs filter-process
